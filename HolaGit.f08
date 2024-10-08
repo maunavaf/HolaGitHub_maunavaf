@@ -1,5 +1,5 @@
 program h1
    
-   print *, 'Hello Git!'
+   print *, 'Nuevo Hello Git!'
    
 end program h1
