@@ -5,6 +5,6 @@ program L2
    
    call execute_command_line('clear')
 
-   print '(/, a, /)', '*** Login v2.0 ***'
+   print '(/, a, /)', '+++ Login v2.0 +++'
 
 end program L2
