@@ -1,10 +1,5 @@
 program L1
 
-   implicit none
-   character(len=50):: Mensaje
-   
-   call execute_command_line('clear')
-
-   print '(/, a, /)', '+++ Login v2.0 +++'
+   print *, 'Login: '
 
 end program L1
