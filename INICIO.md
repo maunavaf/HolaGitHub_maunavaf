@@ -1,2 +1,3 @@
 ## Prueba de trabajo colaborativo con GitHub
+
 ### Veamos cómo funciona ...
